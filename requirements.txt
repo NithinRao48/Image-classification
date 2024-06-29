@@ -1,0 +1,9 @@
+numpy<2.0
+torch
+torchvision
+Pillow
+matplotlib
+pathlib
+tensorboard
+torchsummary
+scikit-learn
